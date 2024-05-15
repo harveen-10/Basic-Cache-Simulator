@@ -32,7 +32,3 @@ To run the program:
 ### Replacement Policies
 - **FIFO (First In First Out)**: The cache replaces the oldest item in the cache when a new item needs to be added.
 - **LRU (Least Recently Used)**: The cache replaces the least recently used item in the cache when a new item needs to be added.
-
-
-## Contributions
-Contributions to improve the functionality or performance of these algorithms are welcome. Feel free to open a pull request.
